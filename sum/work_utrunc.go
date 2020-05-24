@@ -20,7 +20,7 @@
 package sum
 
 import (
-	"github.com/lucky-se7en/ggsl/err"
+	"github.com/jtejido/ggsl/err"
 )
 
 type SumLevinUTruncWorkspace struct {

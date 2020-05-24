@@ -2,8 +2,8 @@ package test
 
 import (
 	"fmt"
-	gsl "github.com/lucky-se7en/ggsl"
-	"github.com/lucky-se7en/ggsl/sys"
+	gsl "github.com/jtejido/ggsl"
+	"github.com/jtejido/ggsl/sys"
 	"math"
 	"os"
 	"strconv"

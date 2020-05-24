@@ -58,7 +58,7 @@ And has the following (abscissae of the N-point kronrod rule):
 
 ```golang
 import (
-	integ "github.com/lucky-se7en/ggsl/integration"
+	integ "github.com/jtejido/ggsl/integration"
 	"math"
 )
 
@@ -176,7 +176,7 @@ All Special Functions are implemented except LegendreP (requires total reimpleme
 ### err package
 
 
-Similarly to GSL, you can set your own error handler to prevent programs from terminating (see [err](https:github.com/lucky-se7en/ggsl/err) package):
+Similarly to GSL, you can set your own error handler to prevent programs from terminating (see [err](https:github.com/jtejido/ggsl/err) package):
 
 ```golang
 func initTesting() {

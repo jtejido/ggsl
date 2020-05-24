@@ -2,9 +2,9 @@ package integration
 
 import (
 	"fmt"
-	gsl "github.com/lucky-se7en/ggsl"
-	"github.com/lucky-se7en/ggsl/specfunc"
-	"github.com/lucky-se7en/ggsl/test"
+	gsl "github.com/jtejido/ggsl"
+	"github.com/jtejido/ggsl/specfunc"
+	"github.com/jtejido/ggsl/test"
 	"math"
 	"testing"
 )

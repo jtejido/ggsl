@@ -1,7 +1,7 @@
 package integration
 
 import (
-	"github.com/lucky-se7en/ggsl/test"
+	"github.com/jtejido/ggsl/test"
 	"testing"
 )
 

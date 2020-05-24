@@ -25,8 +25,8 @@
 package integration
 
 import (
-	"github.com/lucky-se7en/ggsl/err"
-	"github.com/lucky-se7en/ggsl/specfunc"
+	"github.com/jtejido/ggsl/err"
+	"github.com/jtejido/ggsl/specfunc"
 	"math"
 )
 

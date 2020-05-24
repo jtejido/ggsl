@@ -2,7 +2,7 @@ package err
 
 import (
 	"fmt"
-	"github.com/lucky-se7en/ggsl/test"
+	"github.com/jtejido/ggsl/test"
 	"strconv"
 	"testing"
 )

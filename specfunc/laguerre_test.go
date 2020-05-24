@@ -2,7 +2,7 @@ package specfunc
 
 import (
 	"fmt"
-	"github.com/lucky-se7en/ggsl/err"
+	"github.com/jtejido/ggsl/err"
 	"strconv"
 	"testing"
 )

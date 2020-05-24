@@ -19,7 +19,7 @@
 package integration
 
 import (
-	gsl "github.com/lucky-se7en/ggsl"
+	gsl "github.com/jtejido/ggsl"
 )
 
 /* This function computes the 12-th order and 24-th order Chebyshev

@@ -2,8 +2,8 @@ package specfunc
 
 import (
 	"fmt"
-	"github.com/lucky-se7en/ggsl/err"
-	//"github.com/lucky-se7en/ggsl/test"
+	"github.com/jtejido/ggsl/err"
+	//"github.com/jtejido/ggsl/test"
 	//"math"
 	"strconv"
 	"testing"

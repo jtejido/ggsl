@@ -19,7 +19,7 @@
 package sys
 
 import (
-	gsl "github.com/lucky-se7en/ggsl"
+	gsl "github.com/jtejido/ggsl"
 )
 
 var (

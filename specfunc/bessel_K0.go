@@ -19,9 +19,9 @@
 package specfunc
 
 import (
-	gsl "github.com/lucky-se7en/ggsl"
-	"github.com/lucky-se7en/ggsl/err"
-	"github.com/lucky-se7en/ggsl/poly"
+	gsl "github.com/jtejido/ggsl"
+	"github.com/jtejido/ggsl/err"
+	"github.com/jtejido/ggsl/poly"
 	"math"
 )
 
