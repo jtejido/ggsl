@@ -192,11 +192,3 @@ func myErrorHandler(reason, file string, line, gsl_errno int) {
 }
 ```
 
-### TO-DO:
-
-A lot (I don't have enough fingers to type, and may need to move to Jupiter to extend my free time).
-Cquad() gives me some implementation headaches (and test failures).
-
-Regards,
-
-No. 1
