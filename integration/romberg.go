@@ -72,7 +72,7 @@ func Romberg(f gsl.Function, a, b, epsabs, epsrel float64, result *float64, neva
 		/*ROMBERG_PRINT_ROW((size_t) 0, Rp);*/
 		for i := 1; i < n; i++ {
 			sum := 0.0
-			two_i := 1 << i /* 2^i */
+			two_i := 1 << uint(i) /* 2^i */
 
 			for j := 1; j < two_i; j += 2 {
 				sum += f.Evaluate(a + float64(j)*h)
