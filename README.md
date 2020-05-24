@@ -1,5 +1,9 @@
 # ggsl
 
+[![Build Status](https://travis-ci.com/jtejido/ggsl.svg?branch=master)](https://travis-ci.com/jtejido/ggsl)
+[![codecov](https://codecov.io/gh/jtejido/ggsl/branch/master/graph/badge.svg)](https://codecov.io/gh/jtejido/ggsl)
+[![GPL-3.0 license](https://img.shields.io/badge/license-GPL3-blue)](https://opensource.org/licenses/GPL-3.0)
+
 ## Golang port of GNU Scientific Library
 
 Status: last sync with master - 12/19/2019
